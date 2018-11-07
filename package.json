@@ -16,11 +16,11 @@
     }
   },
   "devDependencies": {
-    "autoprefixer": "^8.4.1",
+    "autoprefixer": "^9.3.1",
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
-    "gulp-postcss": "^7.0.0",
-    "tailwindcss": "^0.4.0"
+    "gulp-postcss": "^8.0.0",
+    "tailwindcss": "^0.7.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -38,6 +38,6 @@
   "author": "simonswiss",
   "license": "ISC",
   "dependencies": {
-    "gulp-purgecss": "^0.15.0"
+    "gulp-purgecss": "^1.1.0"
   }
 }
